@@ -7,7 +7,7 @@ A collection of almost everything I coded during my CSC111 course. Made to keep 
 ---
 
 ### What's Inside ( ╹ -╹)?
-All of my assignments, labs, and individual projects.
+All of my assignments, labs and projects.
 
 ---
 
